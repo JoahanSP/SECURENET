@@ -1,2 +1,2 @@
 # SECURENET
-Avance de proyecto 
+El Sistema de Seguridad IoT con ESP32-CAM y Sensor PIR es un prototipo económico y accesible que detecta intrusiones en tiempo real. Utiliza sensores PIR para identificar movimientos, una ESP32-CAM para capturar imágenes y videos, y envía notificaciones inmediatas al usuario mediante un bot de Telegram y un servidor web. El sistema busca ser funcional, escalable y de bajo costo, aportando seguridad a hogares, negocios e instituciones, además de servir como base educativa en IoT, programación y electrónica
